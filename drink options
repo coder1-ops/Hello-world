@@ -1,0 +1,9 @@
+print("hello how are you")
+c=input("please enter your choice of drink: (1.cofee  2.tea  3.juice):")
+d=int(c)
+if (d==1):
+    print("oh so you like coffee")
+if (d==2):
+    print("so tea is your choice")
+if (d==3):
+    print("so you want a glass of juice")
