@@ -1,0 +1,4 @@
+cost=int(input("Enter the cost of the product(digits)in rs. :  " ))
+discount=0.1*cost
+print("you get a discount of",discount,"rs.")
+print("you have to pay a total price of",cost-discount,"rs.")
