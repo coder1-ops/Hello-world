@@ -1,0 +1,4 @@
+c=int(input("enter the number for the table  "))
+d=int(input("enter the times you want   "))
+for i in range(d+1):
+    print(c,"times",i,"is",c*i)
