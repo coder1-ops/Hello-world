@@ -1,0 +1,6 @@
+number=0
+lim=int(input("enter the number of nos you want to sum ::"))
+for i in range(lim+1):
+    number=number+i
+    print("first",i,"numbers when added gives",number)
+    
