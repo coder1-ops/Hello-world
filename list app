@@ -1,0 +1,4 @@
+shopping=["milk","bread","chips","biscuits"]
+shopping.append("coffee")
+for items in shopping:
+    print(items)
